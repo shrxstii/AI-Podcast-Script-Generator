@@ -177,9 +177,7 @@ This project is created for educational and learning purposes.
 
 ---
 
-# GitHub Repository
 
-[podcast-episode-script-generator](https://github.com/Nikki31Chaudhary/podcast-episode-script-generator?utm_source=chatgpt.com)
 
 
 # podcast-episode-script-generator
